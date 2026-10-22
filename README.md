@@ -8,7 +8,7 @@ Module npm d'exemple réalisé dans le cadre du module ICH-324 (Packages et dép
 
 ## Installation
 ```bash
-npm install ich-324-p04-xx
+npm install ich-324-p04-<vos initials>
 ```
 
 ## Étapes réalisées
