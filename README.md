@@ -1,4 +1,4 @@
-# ICH-324-P04-xx
+# ICH-324-P04-<vos initials>
 
 Module npm d'exemple réalisé dans le cadre du module ICH-324 (Packages et dépendances).
 
@@ -18,4 +18,4 @@ npm install ich-324-p04-xx
 4. Création d'un access token granulaire sur npmjs.com (read/write, 90 jours)
 5. Configuration du token : `npm config set //registry.npmjs.org/:_authToken="<token>"`
 6. Publication : `npm publish --access public`
-7. Vérification sur npmjs.com et avec `npm view ich-324-p04-xx`
+7. Vérification sur npmjs.com et avec `npm view ich-324-p04-<vos initials>`
